@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# SQLite
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated
+Thumbs.db
+
+# Runtime cache
+.cache/
+
+# Uploaded/generated files
+uploads/
+generated/
+exports/
+
+# Local screenshots/videos
+screenshots/raw/
+demo_recordings/
+
+# AgentMind runtime files
+runtime/
+workflow_exports/
+
+# Secrets
+secrets.json
+credentials.json
+
+# PyCharm
+*.iml
+
+# VSCode
+.history/
+
+# Node (if frontend added later)
+node_modules/
+
+# Docker
+*.pid
+
+# Terraform
+.terraform/
+
+# Local testing configs
+local_settings.py
+
+# Zip exports
+*.zip
